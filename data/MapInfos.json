@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
-{"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":952.8,"scrollY":411.59999999999997},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":534,"scrollY":319},
+{"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":952,"scrollY":471},
 null,
-{"id":4,"expanded":false,"name":"Puzzle Prototype","order":3,"parentId":0,"scrollX":534,"scrollY":319}
+{"id":4,"expanded":false,"name":"Puzzle Prototype","order":3,"parentId":0,"scrollX":832,"scrollY":640}
 ]
