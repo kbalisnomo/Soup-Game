@@ -3388,10 +3388,10 @@ Input._signX = function() {
     var x = 0;
 
     if (this.isPressed('left')) {
-        x--;
+        x;
     }
     if (this.isPressed('right')) {
-        x++;
+        x;
     }
     return x;
 };
@@ -3405,10 +3405,10 @@ Input._signY = function() {
     var y = 0;
 
     if (this.isPressed('up')) {
-        y--;
+        y;
     }
     if (this.isPressed('down')) {
-        y++;
+        y;
     }
     return y;
 };
