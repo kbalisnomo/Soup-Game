@@ -10,5 +10,6 @@ var $plugins =
 {"name":"YEP_EventClickTrigger","status":true,"description":"v1.00 Lets the player click on designated notetagged events to\r\ntrigger them from afar!","parameters":{}},
 {"name":"QPlus","status":true,"description":"<QPlus> (Should go above all Q Plugins)\nSome small changes to MV for easier plugin development.","parameters":{"Quick Test":"true","Default Enabled Switches":"[]","Ignore Mouse when inactive":"false"}},
 {"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 Use regions to block out Events and/or the player from\nbeing able to venture into those spots.","parameters":{"Player Restrict":"0","Event Restrict":"0","All Restrict":"2","Player Allow":"0","Event Allow":"0","All Allow":"1"}},
-{"name":"YEP_MoveRouteCore","status":true,"description":"v1.04 Expand the number of movement options for the move\nroute events using this plugin.","parameters":{}}
+{"name":"YEP_MoveRouteCore","status":true,"description":"v1.04 Expand the number of movement options for the move\nroute events using this plugin.","parameters":{}},
+{"name":"YEP_EventHitboxResize","status":true,"description":"v1.00 Allows you to make larger event hitboxes, making the event\nable to be triggered from multiple tiles.","parameters":{}}
 ];
