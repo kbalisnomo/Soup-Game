@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1139,"scrollY":633},
 {"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":1139,"scrollY":625},
-{"id":3,"expanded":false,"name":" Puzzle Prototype","order":3,"parentId":0,"scrollX":819,"scrollY":441},
+{"id":3,"expanded":false,"name":" Puzzle Prototype","order":3,"parentId":0,"scrollX":1139,"scrollY":633},
 {"id":4,"expanded":false,"name":" Puzzle Prototype backup","order":5,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":5,"expanded":false,"name":"Cutscene Test","order":4,"parentId":0,"scrollX":819,"scrollY":461}
+{"id":5,"expanded":false,"name":"Cutscene Test","order":4,"parentId":0,"scrollX":1139,"scrollY":633}
 ]
