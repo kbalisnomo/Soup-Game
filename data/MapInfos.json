@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Aisle 1 (with items)","order":2,"parentId":2,"scrollX":584.25,"scrollY":390.75},
+{"id":1,"expanded":false,"name":"Aisle 1 (with items)","order":2,"parentId":2,"scrollX":576.75,"scrollY":390.75},
 {"id":2,"expanded":true,"name":"Aisle 1","order":1,"parentId":0,"scrollX":576.75,"scrollY":390.75}
 ]
