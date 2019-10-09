@@ -1,8 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Aisle 1 (with items)","order":2,"parentId":2,"scrollX":576.75,"scrollY":390.75},
-{"id":2,"expanded":true,"name":"Aisle 1","order":1,"parentId":0,"scrollX":576.75,"scrollY":390.75},
-{"id":3,"expanded":false,"name":"Puzzle Prototype","order":3,"parentId":0,"scrollX":819,"scrollY":453.5},
-{"id":4,"expanded":false,"name":" Puzzle Prototype backup","order":4,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":5,"expanded":false,"name":"Cutscene Test","order":1,"parentId":0,"scrollX":819,"scrollY":453.5}
+null,
+{"id":2,"expanded":true,"name":"Aisle 1","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Puzzle Prototype","order":2,"parentId":0,"scrollX":819,"scrollY":441},
+{"id":4,"expanded":false,"name":" Puzzle Prototype backup","order":3,"parentId":0,"scrollX":819,"scrollY":453.5}
 ]
