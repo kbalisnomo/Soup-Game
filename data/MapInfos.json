@@ -2,6 +2,6 @@
 null,
 null,
 {"id":2,"expanded":true,"name":"Aisle 1","order":1,"parentId":0,"scrollX":546.6,"scrollY":372.59999999999997},
-{"id":3,"expanded":false,"name":"Puzzle Prototype","order":2,"parentId":0,"scrollX":546.6,"scrollY":382.2},
+{"id":3,"expanded":false,"name":"Puzzle Prototype","order":2,"parentId":0,"scrollX":1139,"scrollY":633},
 {"id":4,"expanded":false,"name":" Puzzle Prototype backup","order":3,"parentId":0,"scrollX":546.6,"scrollY":382.2}
 ]
