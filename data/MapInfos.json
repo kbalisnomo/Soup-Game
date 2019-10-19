@@ -1,7 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":650.4,"scrollY":366},
-{"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":909.5999999999999,"scrollY":356.4},
-{"id":3,"expanded":false,"name":"Puzzle Prototype","order":3,"parentId":0,"scrollX":650.4,"scrollY":366},
-{"id":4,"expanded":false,"name":"Plugin Test Map","order":4,"parentId":0,"scrollX":650.4,"scrollY":366}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":489,"scrollY":352},
+{"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":489,"scrollY":264},
+{"id":3,"expanded":false,"name":"Puzzle Prototype","order":3,"parentId":0,"scrollX":489,"scrollY":352},
+{"id":4,"expanded":false,"name":"Plugin Test Map","order":4,"parentId":0,"scrollX":1638,"scrollY":922},
+{"id":5,"expanded":false,"name":"Aisle 2","order":5,"parentId":0,"scrollX":1638,"scrollY":922}
 ]
