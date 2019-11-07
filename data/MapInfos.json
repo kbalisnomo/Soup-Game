@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Puzzle 1","order":1,"parentId":0,"scrollX":716.25,"scrollY":395.25},
-{"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":915.75,"scrollY":383.25},
-{"id":3,"expanded":false,"name":"Puzzle 2","order":3,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"Aisle 2","order":4,"parentId":0,"scrollX":716.25,"scrollY":383.25},
-{"id":5,"expanded":true,"name":"Puzzle 3","order":5,"parentId":0,"scrollX":716.25,"scrollY":395.25},
-{"id":6,"expanded":true,"name":"Aisle 3","order":6,"parentId":0,"scrollX":716.25,"scrollY":383.25},
+{"id":1,"expanded":false,"name":"Puzzle 1","order":1,"parentId":0,"scrollX":585,"scrollY":395.25},
+{"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":660,"scrollY":438},
+{"id":3,"expanded":false,"name":"Puzzle 2","order":3,"parentId":0,"scrollX":463.5,"scrollY":395.25},
+{"id":4,"expanded":true,"name":"Aisle 2","order":4,"parentId":0,"scrollX":585,"scrollY":383.25},
+{"id":5,"expanded":true,"name":"Puzzle 3","order":5,"parentId":0,"scrollX":577.5,"scrollY":395.25},
+{"id":6,"expanded":true,"name":"Aisle 3","order":6,"parentId":0,"scrollX":717,"scrollY":383.25},
 {"id":7,"expanded":false,"name":"Final Room","order":7,"parentId":0,"scrollX":716.25,"scrollY":383.25}
 ]
