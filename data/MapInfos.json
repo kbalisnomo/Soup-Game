@@ -5,6 +5,6 @@ null,
 {"id":3,"expanded":false,"name":"Puzzle 2","order":3,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":true,"name":"Aisle 2","order":4,"parentId":0,"scrollX":716.25,"scrollY":383.25},
 {"id":5,"expanded":true,"name":"Puzzle 3","order":5,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
-{"id":6,"expanded":true,"name":"Aisle 3","order":6,"parentId":0,"scrollX":2604.8571428571427,"scrollY":438},
+{"id":6,"expanded":true,"name":"Aisle 3","order":6,"parentId":0,"scrollX":2536,"scrollY":402.6666666666667},
 {"id":7,"expanded":false,"name":"Final Room","order":7,"parentId":0,"scrollX":728,"scrollY":402.6666666666667}
 ]
