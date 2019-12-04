@@ -29,5 +29,5 @@ var $plugins =
 {"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}},
 {"name":"HIME_CommonEventButtons","status":true,"description":"v1.1 - Allows you to execute common events with the press of a \r\nbutton on the map.","parameters":{}},
 {"name":"DMY_SkipVideo","status":true,"description":"Skip video on key press","parameters":{"Disabler switch":"0"}},
-{"name":"HIME_PreTitleEvents","status":true,"description":"Build your own sequence of events that should occur before\r\nthe title screen begins","parameters":{"Pre-Title Map ID":"13","Use As Title":"false\r"}}
+{"name":"HIME_PreTitleEvents","status":true,"description":"Build your own sequence of events that should occur before\nthe title screen begins","parameters":{"Pre-Title Map ID":"13","Use As Title":"false\r"}}
 ];
