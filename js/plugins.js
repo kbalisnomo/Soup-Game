@@ -28,5 +28,6 @@ var $plugins =
 {"name":"GALV_TimedMessagePopups","status":true,"description":"(v.1.7) Display popup message boxes on screen that do not stop gameplay and auto close after a set time.","parameters":{"Y Offset":"-60","Default Windowskin":"Window","Use Arrows":"true","Windowskin Back Opacity":"255","Text Outline Width":"0"}},
 {"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}},
 {"name":"HIME_CommonEventButtons","status":true,"description":"v1.1 - Allows you to execute common events with the press of a \r\nbutton on the map.","parameters":{}},
-{"name":"DMY_SkipVideo","status":true,"description":"Skip video on key press","parameters":{"Disabler switch":"0"}}
+{"name":"DMY_SkipVideo","status":true,"description":"Skip video on key press","parameters":{"Disabler switch":"0"}},
+{"name":"HIME_PreTitleEvents","status":true,"description":"Build your own sequence of events that should occur before\r\nthe title screen begins","parameters":{"Pre-Title Map ID":"13","Use As Title":"false\r"}}
 ];
