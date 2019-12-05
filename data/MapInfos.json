@@ -1,16 +1,16 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Puzzle 1","order":1,"parentId":0,"scrollX":699,"scrollY":466},
-{"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":933,"scrollY":458},
+{"id":2,"expanded":true,"name":"Aisle 1","order":2,"parentId":0,"scrollX":976.8,"scrollY":362.4},
 {"id":3,"expanded":false,"name":"Puzzle 2","order":4,"parentId":0,"scrollX":665.1428571428571,"scrollY":625.7142857142857},
-{"id":4,"expanded":true,"name":"Aisle 2","order":5,"parentId":0,"scrollX":1749,"scrollY":458},
+{"id":4,"expanded":true,"name":"Aisle 2","order":5,"parentId":0,"scrollX":655.2,"scrollY":362.4},
 {"id":5,"expanded":true,"name":"Puzzle 3","order":7,"parentId":0,"scrollX":699,"scrollY":466},
-{"id":6,"expanded":true,"name":"Aisle 3","order":8,"parentId":0,"scrollX":1163,"scrollY":458},
-{"id":7,"expanded":false,"name":"Final Room","order":10,"parentId":0,"scrollX":832,"scrollY":458},
+{"id":6,"expanded":true,"name":"Aisle 3","order":8,"parentId":0,"scrollX":655.2,"scrollY":362.4},
+{"id":7,"expanded":false,"name":"Final Room","order":10,"parentId":0,"scrollX":857.6,"scrollY":362.4},
 {"id":8,"expanded":true,"name":"BLACKNESS","order":11,"parentId":0,"scrollX":699,"scrollY":466},
-{"id":9,"expanded":false,"name":"Cutscene 1","order":3,"parentId":2,"scrollX":699,"scrollY":466},
+{"id":9,"expanded":false,"name":"Cutscene 1","order":3,"parentId":2,"scrollX":655.2,"scrollY":368.8},
 {"id":10,"expanded":false,"name":"Cutscene 2","order":6,"parentId":4,"scrollX":699,"scrollY":466},
-{"id":11,"expanded":false,"name":"Cutscene 3","order":9,"parentId":6,"scrollX":699,"scrollY":466},
+{"id":11,"expanded":false,"name":"Cutscene 3","order":9,"parentId":6,"scrollX":655.2,"scrollY":368.8},
 {"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":0,"scrollX":655.7142857142857,"scrollY":459.4285714285714},
 {"id":13,"expanded":false,"name":"MAP013","order":13,"parentId":0,"scrollX":699,"scrollY":466}
 ]
