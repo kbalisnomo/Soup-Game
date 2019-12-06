@@ -2666,7 +2666,7 @@ Window_Options.prototype.updatePlacement = function() {
 };
 
 Window_Options.prototype.makeCommandList = function() {
-    this.addGeneralOptions();
+    //this.addGeneralOptions();
     this.addVolumeOptions();
 };
 
