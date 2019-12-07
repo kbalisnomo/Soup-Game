@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Puzzle 1","order":1,"parentId":0,"scrollX":595.6363636363636,"scrollY":347.6363636363636},
-{"id":2,"expanded":false,"name":"Aisle 1","order":2,"parentId":1,"scrollX":595.6363636363636,"scrollY":341.8181818181818},
+{"id":2,"expanded":false,"name":"Aisle 1","order":2,"parentId":1,"scrollX":782.5454545454545,"scrollY":341.8181818181818},
 {"id":3,"expanded":false,"name":"Puzzle 2","order":4,"parentId":0,"scrollX":595.6363636363636,"scrollY":347.6363636363636},
 {"id":4,"expanded":false,"name":"Aisle 2","order":5,"parentId":0,"scrollX":1775.2727272727273,"scrollY":341.8181818181818},
 {"id":5,"expanded":true,"name":"Puzzle 3","order":7,"parentId":0,"scrollX":595.6363636363636,"scrollY":347.6363636363636},
