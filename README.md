@@ -3,6 +3,8 @@ a game by: See You Tomorrow
 
 Submitted to CMPUT 250, Fall 2019
 
+Created using RPGMaker MV
+
 Team Members:
 * Orion Anderson - Programmer
 * Kyle Philip Balisnomo - Producer/Programmer
