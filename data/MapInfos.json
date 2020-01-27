@@ -11,6 +11,6 @@ null,
 {"id":9,"expanded":false,"name":"Cutscene 1","order":3,"parentId":2,"scrollX":595.6363636363636,"scrollY":347.6363636363636},
 null,
 null,
-{"id":12,"expanded":false,"name":"MAP012","order":6,"parentId":0,"scrollX":595.6363636363636,"scrollY":347.6363636363636},
-{"id":13,"expanded":true,"name":"MAP013","order":7,"parentId":0,"scrollX":1139,"scrollY":633}
+null,
+{"id":13,"expanded":true,"name":"MAP013","order":6,"parentId":0,"scrollX":1139,"scrollY":633}
 ]
